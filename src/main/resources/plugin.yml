@@ -1,0 +1,8 @@
+name: zombies-survive
+version: '${project.version}'
+main: pl.notpiotrekdev.zombiessurvive.Zombies_survive
+api-version: '1.20'
+commands:
+  zs-settings:
+    description: Zombie Survive settings
+    usage: /<command>
